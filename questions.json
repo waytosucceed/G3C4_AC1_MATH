@@ -1,0 +1,54 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which words make this statement true?\n123,456 ______ 123,654.",
+    "options": [
+      "is greater than",
+      "is less than",
+      "is equal to"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which symbol makes this statement true?\n345,871 ______ 345,731",
+    "options": [
+      ">",
+      "<",
+      "="
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which symbol makes this statement true?\n256,112 ______ 256,101",
+    "options": [
+      "<",
+      ">",
+      "="
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Using the digits 3, 7, and 5, what is the greatest 3-digit number you can form?",
+    "options": [
+      "375",
+      "573",
+      "753",
+      "357"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Using the digits 6, 2, and 9, what is the smallest 3-digit number you can form?",
+    "options": [
+      "926",
+      "296",
+      "629",
+      "269"
+    ],
+    "correct": 3
+  }
+]
